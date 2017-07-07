@@ -1,0 +1,22 @@
+{
+  "name": "highcharts-defer",
+  "main": [
+    "highcharts-defer.js"
+  ],
+  "homepage": "https://github.com/illuminateeducation/highcharts-defer",
+  "authors": [
+    "Kyle Umstatter <blackstar257@gmail.com>"
+  ],
+  "description": "Highcharts plugin to defer initial series animation until the element has appeared Edit",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery_appear": "^0.3.6"
+  }
+}
